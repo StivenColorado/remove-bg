@@ -1,4 +1,4 @@
-rembg
 onnxruntime
+rembg
 pillow
 tk
